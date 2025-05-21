@@ -20,3 +20,6 @@ A .env file with your API key (see Setup).<br>
 -requests: HTTP requests for Gemini API<br>
 -python-dotenv: Environment variable management<br>
 -Defined in pyproject.toml<br>
+
+### Deployment
+Deployed live at [https://ema-saad-ai-resume-critiquer-main-q42kcs.streamlit.app/]
