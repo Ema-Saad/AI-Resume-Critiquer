@@ -1,0 +1,11 @@
+{
+    "total_analyses": 1,
+    "job_role_counts": {
+        "Backend developer": 1
+    },
+    "api_response_times": [
+        7.786193609237671
+    ],
+    "successful_analyses": 1,
+    "failed_analyses": 0
+}
