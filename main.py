@@ -16,7 +16,7 @@ st.title("AI Resume Critiquer")
 st.markdown("Upload your resume and get AI-powered feedback tailored to your needs!")
 
 # Get Gemini API key
-GEMINI_API_KEY = os.getenv("API_KEY")
+GEMINI_API_KEY = st.secrets["API_KEY"]
 
 # Initialize session state for metrics
 if 'metrics' not in st.session_state:
